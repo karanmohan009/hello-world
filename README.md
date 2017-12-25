@@ -1,2 +1,3 @@
 # hello-world
 I'm new to all this...
+I wanna learn programming and get good in it.
